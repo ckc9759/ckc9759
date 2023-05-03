@@ -33,9 +33,9 @@
    <!-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dmahajan980) -->  
 ---
 
-<a href="https://github.com/ckc9759/github-readme-activity-graph"><img alt="Chaitanya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ckc9759&bg_color=0D1117&color=add8e6&line=0000ff&point=add8e6&hide_border=true" /></a>
+<!-- <a href="https://github.com/ckc9759/github-readme-activity-graph"><img alt="Chaitanya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ckc9759&bg_color=0D1117&color=add8e6&line=0000ff&point=add8e6&hide_border=true" /></a>
 
----
+--- -->
 
 ### :hammer_and_wrench: Languages and Tools :  
 
